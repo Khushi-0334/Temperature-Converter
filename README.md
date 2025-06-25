@@ -21,6 +21,12 @@ This is a Angular app that allows users to convert temperatures between **Celsiu
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](output.png)
+
+---
+
 ## ▶️ How to Run Locally
 
 ```bash
@@ -38,14 +44,4 @@ ng serve
 
 # 5. Then open your browser and go to:
 http://localhost:4200
-
-
-
- 📸 Screenshot
-
-![App Screenshot](output.png)
-
-
-
-
 
