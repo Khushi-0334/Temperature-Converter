@@ -1,0 +1,17 @@
+<h2>Temperature Converter</h2>
+
+<div>
+    <label>Celsius (°C):</label>
+    <input [(ngModel)]="celsius" type="number" />
+    <button (click)="convertToFahrenheit()">To °F</button>
+</div>
+
+<div>
+    <label>Fahrenheit (°F):</label>
+    <input [(ngModel)]="fahrenheit" type="number" />
+    <button (click)="convertToCelsius()">To °C</button>
+</div>
+
+<div>
+    <button (click)="clearAll()">Clear</button>
+</div>
